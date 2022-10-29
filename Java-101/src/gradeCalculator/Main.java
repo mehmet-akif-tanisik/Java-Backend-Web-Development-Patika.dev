@@ -1,4 +1,4 @@
-package gradeCalculatorProgram;
+package gradeCalculator;
 
 import java.util.Scanner;
 

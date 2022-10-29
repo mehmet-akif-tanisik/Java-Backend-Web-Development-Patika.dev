@@ -1,4 +1,4 @@
-package triangleAreaCalculatorProgram;
+package triangleAreaCalculator;
 
 import java.util.Scanner;
 

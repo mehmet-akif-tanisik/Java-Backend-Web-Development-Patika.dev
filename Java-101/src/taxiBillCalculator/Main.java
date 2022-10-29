@@ -1,4 +1,4 @@
-package taxiBillCalculatorProgram;
+package taxiBillCalculator;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package taxCalculatorProgram;
+package taxCalculator;
 
 import java.util.Scanner;
 
