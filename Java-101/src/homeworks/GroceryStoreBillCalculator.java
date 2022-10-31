@@ -35,7 +35,7 @@ public class GroceryStoreBillCalculator {
         billAmount = (apple * appleCost) + (pear * pearCost) + (tomato * tomatoCost) + (eggplant * eggplantCost) + (banana * bananaCost);
 
         //Screen output to show total amount of bill.
-        System.out.print("Total bill amount: " + billAmount);
+        System.out.printf("Total bill amount: %.2f", billAmount);
 
 
     }
