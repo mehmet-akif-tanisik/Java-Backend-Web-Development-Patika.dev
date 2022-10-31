@@ -38,8 +38,5 @@ public class SortThreeNumbers {
 
         System.out.println(a + " " + b + " " + c );
 
-
-
-
     }
 }
