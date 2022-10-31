@@ -7,7 +7,6 @@ public class WeatherAdvisor {
     public static void main(String[] args) {
         int degree;
 
-
         Scanner keyboard = new Scanner(System.in);
 
         System.out.print("Please enter the temperature: ");
@@ -25,12 +24,5 @@ public class WeatherAdvisor {
         } else {
             System.out.println("You can go to swimming.");
         }
-
-
-
-
-
-
-
     }
 }
