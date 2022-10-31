@@ -7,22 +7,22 @@ public class BmiCalculator {
 
     public static void main(String[] args) {
 
-        //weight in kg, height in meters
+        // Declaration of weight(kg) and height(meters)
         double weight, height;
-        // basal metabolic rate
+        // Declaration of basal metabolic rate(bmi)
         double bmi;
 
-        //keyboard variable is a Scanner object that will read input from keyboard.
+        //Initializing "keyboard" object from Scanner class that will read input from keyboard.
         Scanner keyboard = new Scanner(System.in);
 
-        //Taking inputs from user with "keyboard" Scanner object.
+        //Taking inputs height and weight from user using "keyboard" object.
         System.out.print("Please enter your height(as meter e.q: 1.72): ");
         height = keyboard.nextDouble();
 
         System.out.print("Please enter your weight(as kilogram e.q: 76): ");
         weight = keyboard.nextDouble();
 
-        //Basal Metabolic Rate = Weight(kg) / (Height(meters) * Height(meters))
+        //Basal Metabolic Rate Formula ---- BMI = Weight / (Height * Height);
         bmi = weight / (height*height);
 
         //Screen output to show basal metabolic rate of user.
