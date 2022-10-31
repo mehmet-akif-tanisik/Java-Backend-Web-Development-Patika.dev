@@ -1,8 +1,8 @@
-package gradeCalculator;
+package practices;
 
 import java.util.Scanner;
 
-public class Main {
+public class GradeCalculator {
 
     public static void main(String[] args) {
 

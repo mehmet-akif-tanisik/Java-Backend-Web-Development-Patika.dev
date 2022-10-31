@@ -1,8 +1,8 @@
-package taxiBillCalculator;
+package practices;
 
 import java.util.Scanner;
 
-public class Main {
+public class TaxiBillCalculator {
 
     public static void main(String[] args) {
 

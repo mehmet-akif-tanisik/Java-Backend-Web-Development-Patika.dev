@@ -1,8 +1,8 @@
-package bmiCalculator;
+package homeworks;
 
 import java.util.Scanner;
 
-public class Main {
+public class BmiCalculator {
 
 
     public static void main(String[] args) {

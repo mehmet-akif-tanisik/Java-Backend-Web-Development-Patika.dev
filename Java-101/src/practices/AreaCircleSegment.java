@@ -1,8 +1,8 @@
-package circleAreaCircumferenceCalculator;
+package practices;
 
 import java.util.Scanner;
 
-public class Segment {
+public class AreaCircleSegment {
 
 
     public static void main(String[] args) {

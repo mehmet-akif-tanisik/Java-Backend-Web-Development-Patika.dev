@@ -1,8 +1,8 @@
-package triangleAreaCalculator;
+package practices;
 
 import java.util.Scanner;
 
-public class Main {
+public class TriangleAreaCalculator {
 
     public static void main(String[] args) {
 

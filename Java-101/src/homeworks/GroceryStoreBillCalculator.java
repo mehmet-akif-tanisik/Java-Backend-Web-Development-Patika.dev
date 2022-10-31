@@ -1,8 +1,8 @@
-package groceryStoreBillCalculator;
+package homeworks;
 
 import java.util.Scanner;
 
-public class Main {
+public class GroceryStoreBillCalculator {
 
     public static void main(String[] args) {
 
