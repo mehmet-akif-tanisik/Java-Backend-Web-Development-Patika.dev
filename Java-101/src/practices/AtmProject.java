@@ -21,7 +21,7 @@ public class AtmProject {
             if (userName.equals("matnsk") && password.equals("123")) {
                 System.out.println("Successfully logged in!");
 
-                for (;;) {
+                while(true) {
                     System.out.println("""
                             1-Cash Deposit
                             2-Cash Withdrawal
