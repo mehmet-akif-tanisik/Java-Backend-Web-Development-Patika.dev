@@ -8,7 +8,7 @@ public class AtmProject {
         Scanner keyboard = new Scanner(System.in);
 
         int validation = 3;
-        int balance = 2000;
+        int balance = 1000;
 
         FIRST_LOOP:
         while (validation > 0) {
