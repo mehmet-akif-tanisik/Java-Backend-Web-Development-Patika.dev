@@ -2,7 +2,7 @@ package practices;
 
 import java.util.Scanner;
 
-public class DivisibleByThreeFourAvarage {
+public class DivisibleByThreeFourAverage {
 
     public static void main(String[] args) {
 
