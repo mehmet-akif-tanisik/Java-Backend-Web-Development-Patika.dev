@@ -35,7 +35,6 @@ public class ArraySelectionSort {
 
     }
 
-
     public static void main(String[] args) {
 
         Scanner keyboard = new Scanner(System.in);
@@ -56,11 +55,6 @@ public class ArraySelectionSort {
         sortArray(array);
         System.out.println("Sorted array -- > " + Arrays.toString(array));
 
-
     }
-
-
-
-
 
 }
