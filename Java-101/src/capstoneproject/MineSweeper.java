@@ -192,7 +192,7 @@ public class MineSweeper {
 
         if (fieldHidden[i][j] == 100) {
             displayHidden();
-            System.out.print("Oops! You stepped on a mine!\n============GAME OVER============");
+            System.out.print("Oops! You stepped on a mine!\n----------GAME OVER----------");
             return false;
         } else if (fieldHidden[i][j] == 0) {
             fixVisible(i, j);
