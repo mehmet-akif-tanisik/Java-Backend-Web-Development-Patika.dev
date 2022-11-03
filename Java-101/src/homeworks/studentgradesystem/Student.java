@@ -1,4 +1,4 @@
-package homeworks.StudentGradeSystem;
+package homeworks.studentgradesystem;
 
 public class Student {
 
